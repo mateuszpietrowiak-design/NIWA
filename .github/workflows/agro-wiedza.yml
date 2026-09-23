@@ -1,0 +1,34 @@
+name: Agro wiedza
+
+on:
+  schedule:
+    # Niedziela 17:00 UTC = 19:00 czasu polskiego latem. Zimą będzie 18:00.
+    - cron: "0 17 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  odswiez:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Sprawdź źródła i zapisz plik
+        env:
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+        run: node scripts/odswiez-wiedze.mjs
+      - name: Wyślij plik na GitHub
+        run: |
+          git config user.name "niwa-wiedza"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add agro-wiedza.json
+          if git diff --staged --quiet; then
+            echo "Bez zmian w pliku."
+          else
+            git commit -m "Aktualizacja pliku wiedzy"
+            git push
+          fi

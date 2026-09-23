@@ -1,0 +1,131 @@
+{
+  "updatedAt": "2026-09-23",
+  "weekEmpty": false,
+  "note": "Skrót publiczny z 23.09.2026. Nie zastępuje etykiety środka, rejestru PIORiN ani strony ARiMR. Nie zawiera danych gospodarstwa.",
+  "headlines": [
+    {
+      "grade": "A",
+      "text": "ARiMR wypłaciła już 5,08 mld zł zaliczek dopłat bezpośrednich i obszarowych za 2026 r., z podwyższoną stawką 75% dla płatności bezpośrednich; środki trafiają wcześniej niż w latach poprzednich.",
+      "source": "ARiMR"
+    },
+    {
+      "grade": "A",
+      "text": "IUNG-PIB opublikował 12. raport SMSR (aktualizacja 14.09.2026): na Dolnym Śląsku susza dotyczy m.in. kukurydzy na ziarno (ok. 51% gmin) i kiszonkę (ok. 53% gmin) oraz ziemniaka (ok. 24% gmin).",
+      "source": "IUNG-PIB"
+    },
+    {
+      "grade": "B",
+      "text": "Nabór na inwestycje poprawiające dobrostan bydła i świń (I.10.15) rusza 7 października 2026 r. z refundacją do 65% i limitem do 150 tys. zł.",
+      "source": "ARiMR"
+    },
+    {
+      "grade": "B",
+      "text": "Ceny nawozów rosną; saletra amonowa średnio ok. 1980 zł/t, Polifoska 6 ok. 2820 zł/t – warto monitorować oferty przed nawożeniem ozimin.",
+      "source": "topagrar.pl"
+    },
+    {
+      "grade": "C",
+      "text": "Rejestr środków ochrony roślin zaktualizowany 9.09.2026; flufenacet można stosować do 10 grudnia 2026 r.",
+      "source": "MRiRW"
+    }
+  ],
+  "fertilization": [
+    {
+      "text": "Przed siewem ozimin (pszenica, żyto, pszenżyto, jęczmień, rzepak) sprawdź aktualne ceny nawozów azotowych i wieloskładnikowych – saletra ok. 1900-2100 zł/t, Polifoska 6 ok. 2750-2880 zł/t.",
+      "source": "topagrar.pl"
+    }
+  ],
+  "soil": [
+    {
+      "text": "Monitoring suszy IUNG wskazuje deficyty wilgotności gleby na Dolnym Śląsku w uprawach kukurydzy i ziemniaka; planuj poplony i retencję wody.",
+      "source": "IUNG-PIB"
+    }
+  ],
+  "protection": [
+    {
+      "text": "Sprawdź magazyn pod kątem wycofanych substancji; flufenacet do zużycia do 10.12.2026, wcześniejsze jak metrybuzyna już niedozwolone – utylizacja przez uprawnioną firmę.",
+      "source": "PIORiN/MRiRW"
+    },
+    {
+      "text": "Rejestr SOR zaktualizowany 9 września 2026 – stosuj wyłącznie zarejestrowane środki z polską etykietą.",
+      "source": "MRiRW"
+    }
+  ],
+  "subsidies": [
+    {
+      "text": "Trwa wypłata zaliczek dopłat 2026 (już ponad 5 mld zł); sprawdź aktualność numeru rachunku w ARiMR.",
+      "source": "ARiMR"
+    },
+    {
+      "text": "Nabory: dopłaty do ubezpieczeń zwierząt do 13.10, inwestycje ASF do 1.10, dobrostan bydła/świń od 7.10, OZE od października.",
+      "source": "ARiMR"
+    },
+    {
+      "text": "Kontrole FOTO ARiMR trwają – weryfikuj deklaracje w eWniosekPlus w razie alertów.",
+      "source": "ARiMR"
+    }
+  ],
+  "tech": [],
+  "economy": [
+    {
+      "text": "Ceny skupu: pszenica konsumpcyjna średnio ok. 900 zł/t (840-980), rzepak ok. 2355 zł/t (2200-2500), jęczmień ok. 700 zł/t.",
+      "source": "topagrar.pl"
+    },
+    {
+      "text": "Wpływ CBAM ogranicza import nawozów azotowych spoza UE – ceny pod presją wzrostową.",
+      "source": "topagrar.pl"
+    }
+  ],
+  "doNow": [
+    {
+      "text": "Sprawdź status wypłaty zaliczek dopłat i aktualność danych bankowych w systemie ARiMR."
+    },
+    {
+      "text": "Oceń wilgotność gleby i stan kukurydzy/ziemniaka pod kątem suszy; planuj zbiory i poplony."
+    },
+    {
+      "text": "Porównaj oferty nawozów pod oziminy i zabezpiecz zapasy legalnych ŚOR przed zimą."
+    }
+  ],
+  "watch": [
+    {
+      "text": "Kolejne raporty SMSR IUNG i prognozy opadów na Dolnym Śląsku."
+    },
+    {
+      "text": "Start naborów październikowych ARiMR (dobrostan, OZE, RHD/MOL)."
+    },
+    {
+      "text": "Zmiany cen nawozów i zbóż oraz ewentualne nowe decyzje o wycofaniach ŚOR."
+    }
+  ],
+  "sources": [
+    {
+      "title": "5,08 mld zł na kontach - trwa wypłata zaliczek dopłat 2026",
+      "url": "https://www.gov.pl/web/arimr/508-mld-zl-na-kontach--trwa-wyplata-zaliczek-doplat-2026"
+    },
+    {
+      "title": "SMSR - System Monitoringu Suszy Rolniczej",
+      "url": "https://susza.iung.pulawy.pl/"
+    },
+    {
+      "title": "SMSR - Komunikaty 2026-07-11 - 2026-09-10",
+      "url": "https://susza.iung.pulawy.pl/komentarz/"
+    },
+    {
+      "title": "ARiMR - strona główna aktualności",
+      "url": "https://www.gov.pl/web/arimr"
+    },
+    {
+      "title": "Rynki Rolne - notowania topagrar.pl",
+      "url": "https://www.topagrar.pl/notowania"
+    },
+    {
+      "title": "Nawozy coraz droższe. Ile zapłacimy za mocznik, saletrę i Polifoskę we wrześniu?",
+      "url": "https://www.topagrar.pl/uprawa/nawozy/nawozy-coraz-drozsze-ile-zaplacimy-za-mocznik-saletre-i-polifoske-we-wrzesniu-2690654"
+    },
+    {
+      "title": "Rejestr Środków Ochrony Roślin",
+      "url": "https://www.gov.pl/web/rolnictwo/rejestr-rodkow-ochrony-roslin"
+    }
+  ]
+}
