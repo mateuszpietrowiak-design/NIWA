@@ -1,131 +1,122 @@
 {
-  "updatedAt": "2026-09-23",
+  "updatedAt": "2026-10-07",
   "weekEmpty": false,
-  "note": "Skrót publiczny z 23.09.2026. Nie zastępuje etykiety środka, rejestru PIORiN ani strony ARiMR. Nie zawiera danych gospodarstwa.",
+  "note": "Przegląd cotygodniowy nie zastępuje lokalnego doradztwa, analizy gleby, etykiet środków ani indywidualnych decyzji ARiMR dla gospodarstwa.",
   "headlines": [
     {
       "grade": "A",
-      "text": "ARiMR wypłaciła już 5,08 mld zł zaliczek dopłat bezpośrednich i obszarowych za 2026 r., z podwyższoną stawką 75% dla płatności bezpośrednich; środki trafiają wcześniej niż w latach poprzednich.",
-      "source": "ARiMR"
-    },
-    {
-      "grade": "A",
-      "text": "IUNG-PIB opublikował 12. raport SMSR (aktualizacja 14.09.2026): na Dolnym Śląsku susza dotyczy m.in. kukurydzy na ziarno (ok. 51% gmin) i kiszonkę (ok. 53% gmin) oraz ziemniaka (ok. 24% gmin).",
-      "source": "IUNG-PIB"
+      "text": "ARiMR prowadzi nabór wniosków o nadzwyczajne dopłaty do nawozów mineralnych i oleju napędowego zakupionych od 1 marca do 31 sierpnia 2026 r.; termin składania przez Portal Rolnika mija 23 października.",
+      "source": "ARiMR / Tygodnik Poradnik Rolniczy"
     },
     {
       "grade": "B",
-      "text": "Nabór na inwestycje poprawiające dobrostan bydła i świń (I.10.15) rusza 7 października 2026 r. z refundacją do 65% i limitem do 150 tys. zł.",
-      "source": "ARiMR"
+      "text": "Ministerstwo Rolnictwa zaktualizowało 30 września 2026 r. rejestr środków ochrony roślin dopuszczonych do obrotu; dostępne są nowe zezwolenia i etykiety z sierpnia-września.",
+      "source": "MRiRW"
     },
     {
       "grade": "B",
-      "text": "Ceny nawozów rosną; saletra amonowa średnio ok. 1980 zł/t, Polifoska 6 ok. 2820 zł/t – warto monitorować oferty przed nawożeniem ozimin.",
-      "source": "topagrar.pl"
+      "text": "Na początku października 2026 r. ceny nawozów azotowych i wieloskładnikowych pozostają zróżnicowane regionalnie: mocznik z inhibitorem 2730–3100 zł/t netto, saletra amonowa 34% ok. 2010–2150 zł/t, Polifoska 6 2780–3020 zł/t.",
+      "source": "Notowania rynkowe"
+    },
+    {
+      "grade": "B",
+      "text": "W skupach na początku października pszenica konsumpcyjna oscyluje wokół 810–1010 zł/t (średnio ok. 900), kukurydza sucha 900–1000 zł/t, rzepak 2200–2480 zł/t; notowania MATIF pszenicy blisko 247 EUR/t.",
+      "source": "CenyRolnicze / top agrar"
     },
     {
       "grade": "C",
-      "text": "Rejestr środków ochrony roślin zaktualizowany 9.09.2026; flufenacet można stosować do 10 grudnia 2026 r.",
-      "source": "MRiRW"
+      "text": "ARiMR wypłaciła już ponad 8,5 mld zł zaliczek dopłat bezpośrednich i ONW za 2026 r. do ponad miliona rolników; wypłaty trwają do końca listopada.",
+      "source": "ARiMR"
     }
   ],
   "fertilization": [
     {
-      "text": "Przed siewem ozimin (pszenica, żyto, pszenżyto, jęczmień, rzepak) sprawdź aktualne ceny nawozów azotowych i wieloskładnikowych – saletra ok. 1900-2100 zł/t, Polifoska 6 ok. 2750-2880 zł/t.",
-      "source": "topagrar.pl"
-    }
-  ],
-  "soil": [
+      "text": "Przy planowaniu jesiennego nawożenia podstawowego pod zboża ozime i rzepak warto uwzględnić aktualne ceny NPK i limity z programu dopłat do nawozów (max 500 zł/ha, do 300 ha).",
+      "source": "ARiMR / notowania"
+    },
     {
-      "text": "Monitoring suszy IUNG wskazuje deficyty wilgotności gleby na Dolnym Śląsku w uprawach kukurydzy i ziemniaka; planuj poplony i retencję wody.",
+      "text": "IUNG-PIB kontynuuje szkolenia z racjonalnego nawożenia i narzędzi typu INTER-NAW na sezon 2026; tematy obejmują bilans składników i przepisy.",
       "source": "IUNG-PIB"
     }
   ],
+  "soil": [],
   "protection": [
     {
-      "text": "Sprawdź magazyn pod kątem wycofanych substancji; flufenacet do zużycia do 10.12.2026, wcześniejsze jak metrybuzyna już niedozwolone – utylizacja przez uprawnioną firmę.",
-      "source": "PIORiN/MRiRW"
+      "text": "Rejestr ŚOR zaktualizowany 30.09.2026; przed zakupem i stosowaniem sprawdź aktualne zezwolenia oraz terminy wycofania substancji (np. flufenacet z okresami przejściowymi w 2026).",
+      "source": "MRiRW"
     },
     {
-      "text": "Rejestr SOR zaktualizowany 9 września 2026 – stosuj wyłącznie zarejestrowane środki z polską etykietą.",
-      "source": "MRiRW"
+      "text": "Obowiązek pełnej elektronicznej ewidencji zabiegów ŚOR przesunięty na 2027 r.; w 2026 r. zasady dokumentowania pozostają bez zmian, ale warto przygotować gospodarstwo.",
+      "source": "PIORiN / MRiRW"
     }
   ],
   "subsidies": [
     {
-      "text": "Trwa wypłata zaliczek dopłat 2026 (już ponad 5 mld zł); sprawdź aktualność numeru rachunku w ARiMR.",
+      "text": "Nabór dopłat do nawozów (do 500 zł/ha) i paliwa (0,52 zł/l) trwa do 23.10.2026 wyłącznie przez Portal Rolnika; decyzje do 23.11, wypłaty od przełomu XI/XII.",
       "source": "ARiMR"
     },
     {
-      "text": "Nabory: dopłaty do ubezpieczeń zwierząt do 13.10, inwestycje ASF do 1.10, dobrostan bydła/świń od 7.10, OZE od października.",
+      "text": "W październiku 2026 ruszają nabory m.in. na OZE i efektywność energetyczną (do 1,5 mln zł) oraz dobrostan bydła i świń (do 150 tys. zł).",
       "source": "ARiMR"
     },
     {
-      "text": "Kontrole FOTO ARiMR trwają – weryfikuj deklaracje w eWniosekPlus w razie alertów.",
+      "text": "Zaliczki płatności bezpośrednich (do 75%) i ONW trwają; sprawdź aktualność numeru konta w ewidencji producentów.",
       "source": "ARiMR"
     }
   ],
   "tech": [],
   "economy": [
     {
-      "text": "Ceny skupu: pszenica konsumpcyjna średnio ok. 900 zł/t (840-980), rzepak ok. 2355 zł/t (2200-2500), jęczmień ok. 700 zł/t.",
-      "source": "topagrar.pl"
+      "text": "Ceny nawozów na początku października 2026: mocznik z inhibitorem 2730–3100 zł/t, saletra 2010–2150 zł/t, Polifoska 6 2780–3020 zł/t netto; duże różnice między punktami sprzedaży.",
+      "source": "Notowania rynkowe 2–6.10.2026"
     },
     {
-      "text": "Wpływ CBAM ogranicza import nawozów azotowych spoza UE – ceny pod presją wzrostową.",
-      "source": "topagrar.pl"
+      "text": "Skupy: pszenica konsumpcyjna średnio ok. 900 zł/t (widełki 810–1010), kukurydza sucha 900–990 zł/t, rzepak średnio ok. 2350 zł/t; kukurydza mokra 590–660 zł/t.",
+      "source": "CenyRolnicze / sondaże"
     }
   ],
   "doNow": [
     {
-      "text": "Sprawdź status wypłaty zaliczek dopłat i aktualność danych bankowych w systemie ARiMR."
+      "text": "Złóż wniosek o dopłaty do nawozów i/lub paliwa przez Portal Rolnika najpóźniej do 23 października 2026 r., dołączając faktury z okresu 1.03–31.08.2026."
     },
     {
-      "text": "Oceń wilgotność gleby i stan kukurydzy/ziemniaka pod kątem suszy; planuj zbiory i poplony."
+      "text": "Sprawdź magazyn pod kątem wycofanych lub wygasających ŚOR i zaktualizuj ewidencję zabiegów; zweryfikuj aktualny rejestr MRiRW."
     },
     {
-      "text": "Porównaj oferty nawozów pod oziminy i zabezpiecz zapasy legalnych ŚOR przed zimą."
+      "text": "Porównaj oferty nawozów w kilku punktach przed zakupem pod oziminy – różnice na tonie sięgają kilkuset złotych."
     }
   ],
   "watch": [
     {
-      "text": "Kolejne raporty SMSR IUNG i prognozy opadów na Dolnym Śląsku."
+      "text": "Dalszy przebieg naboru dopłat do nawozów/paliwa i ewentualny współczynnik korygujący przy przekroczeniu limitu środków."
     },
     {
-      "text": "Start naborów październikowych ARiMR (dobrostan, OZE, RHD/MOL)."
+      "text": "Zmiany cen zbóż, rzepaku i kukurydzy w skupach oraz notowań MATIF w związku z sytuacją na Morzu Czarnym i zbiorami."
     },
     {
-      "text": "Zmiany cen nawozów i zbóż oraz ewentualne nowe decyzje o wycofaniach ŚOR."
+      "text": "Kolejne aktualizacje rejestru ŚOR i komunikaty PIORiN dotyczące kontroli i wycofań."
     }
   ],
   "sources": [
     {
-      "title": "5,08 mld zł na kontach - trwa wypłata zaliczek dopłat 2026",
-      "url": "https://www.gov.pl/web/arimr/508-mld-zl-na-kontach--trwa-wyplata-zaliczek-doplat-2026"
-    },
-    {
-      "title": "SMSR - System Monitoringu Suszy Rolniczej",
-      "url": "https://susza.iung.pulawy.pl/"
-    },
-    {
-      "title": "SMSR - Komunikaty 2026-07-11 - 2026-09-10",
-      "url": "https://susza.iung.pulawy.pl/komentarz/"
-    },
-    {
-      "title": "ARiMR - strona główna aktualności",
-      "url": "https://www.gov.pl/web/arimr"
-    },
-    {
-      "title": "Rynki Rolne - notowania topagrar.pl",
-      "url": "https://www.topagrar.pl/notowania"
-    },
-    {
-      "title": "Nawozy coraz droższe. Ile zapłacimy za mocznik, saletrę i Polifoskę we wrześniu?",
-      "url": "https://www.topagrar.pl/uprawa/nawozy/nawozy-coraz-drozsze-ile-zaplacimy-za-mocznik-saletre-i-polifoske-we-wrzesniu-2690654"
-    },
-    {
-      "title": "Rejestr Środków Ochrony Roślin",
+      "title": "Rejestr Środków Ochrony Roślin – aktualizacja 30.09.2026",
       "url": "https://www.gov.pl/web/rolnictwo/rejestr-rodkow-ochrony-roslin"
+    },
+    {
+      "title": "Dopłaty do nawozów i paliwa – dane ARiMR 7.10.2026",
+      "url": "https://www.tygodnik-rolniczy.pl/pieniadze/doplaty-bezposrednie/doplaty-do-nawozow-i-paliwa-arimr-podala-nowe-dane-kiedy-wyplaci-pieniadze-2692183"
+    },
+    {
+      "title": "Aktualne ceny nawozów początek października 2026",
+      "url": "https://kobietawsadzie.pl/aktualne-ceny-nawozow-na-poczatku-pazdziernika-2026-ile-rolnik-zaplaci-za-tone/"
+    },
+    {
+      "title": "Nabory ARiMR w październiku 2026",
+      "url": "https://www.agrofakt.pl/nawet-15-mln-zl-na-inwestycje-w-gospodarstwie-te-nabory-arimr-rusza-w-pazdzierniku/"
+    },
+    {
+      "title": "Informacja o stanie upraw RZD IUNG-PIB lipiec 2026",
+      "url": "https://www.iung.pl/2026/08/26/informacja-o-stanie-upraw-z-rolniczych-zakladow-doswiadczalnych-iung-pib-za-lipiec-2026/"
     }
   ]
 }
