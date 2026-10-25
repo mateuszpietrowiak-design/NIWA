@@ -1,122 +1,113 @@
 {
-  "updatedAt": "2026-10-18",
+  "updatedAt": "2026-10-25",
   "weekEmpty": false,
-  "note": "Przegląd nie zastępuje lokalnej lustracji pól, badań gleby ani indywidualnych decyzji agronomicznych i doradztwa.",
+  "note": "Przegląd nie zastępuje lokalnego doradztwa, własnych obserwacji pól ani decyzji opartych na aktualnych badaniach gleby.",
   "headlines": [
     {
       "grade": "A",
-      "text": "IUNG-PIB zakończył monitoring suszy 2026; na Dolnym Śląsku zagrożenie w kukurydzy na ziarno objęło ok. 51% gmin, a całkowity bilans pokazuje straty w zbożach i kukurydzy w wielu regionach.",
-      "source": "IUNG-PIB SMSR"
+      "text": "Termin składania wniosków o nadzwyczajne wsparcie do nawozów mineralnych i oleju napędowego upłynął 23 października 2026 r. via Portal Rolnika.",
+      "source": "ARiMR"
     },
     {
       "grade": "A",
-      "text": "ARiMR wypłaciła już ponad 10,7 mld zł zaliczek dopłat bezpośrednich i obszarowych za 2026 r. (75% dla bezpośrednich); większość gospodarstw powinna otrzymać środki w najbliższych dniach.",
+      "text": "IUNG-PIB podsumował suszę 2026: w dolnośląskim zagrożenie dotyczyło m.in. kukurydzy na ziarno (ok. 51% gmin) i kiszonkę (ok. 53% gmin) oraz ziemniaka.",
+      "source": "IUNG-PIB"
+    },
+    {
+      "grade": "B",
+      "text": "ARiMR wypłaciła już ponad 11,4 mld zł zaliczek dopłat bezpośrednich i obszarowych za 2026 r., z podwyższonym poziomem zaliczek.",
       "source": "ARiMR"
     },
     {
       "grade": "B",
-      "text": "Trwa nabór do 23 października na nadzwyczajne wsparcie do nawozów i paliwa (zakupy 1.03–31.08.2026); złożono już niemal 195 tys. wniosków wyłącznie przez Portal Rolnika.",
-      "source": "ARiMR"
-    },
-    {
-      "grade": "B",
-      "text": "Termin sprzedaży herbicydów z flufenacetem wydłużono do 10 listopada 2026 r. dla części preparatów; stosowanie zapasów możliwe do 10 grudnia 2026 r.",
-      "source": "MRiRW / PIORiN"
+      "text": "Środki z flufenacetem: sprzedaż części preparatów przedłużona do 10 listopada 2026 r., stosowanie zapasów do 10 grudnia 2026 r. – istotne dla jesiennej ochrony zbóż ozimych.",
+      "source": "MRiRW/media branżowe"
     },
     {
       "grade": "C",
-      "text": "Ceny nawozów fosforowych rosną: DAP średnio ok. 4050–4250 zł/t, NPK i azotowe też drożeją względem września.",
-      "source": "Farmer.pl"
+      "text": "Ceny nawozów NPK i fosforowych pozostają wysokie, Polifoska 6 średnio ponad 3100 zł/t, DAP nawet powyżej 4000 zł/t.",
+      "source": "Raporty rynkowe"
     }
   ],
   "fertilization": [
     {
-      "text": "Nawozy fosforowe (DAP, MAP, superfosfaty) podrożały o kilkadziesiąt–ponad 100 zł/t względem połowy września; sól potasowa stabilna ok. 1860 zł/t."
+      "text": "Wsparcie do nawozów kupionych 1.03–31.08.2026 dotyczyło nawozów mineralnych (bez wapna), max 500 zł/ha do 300 ha; decyzje do 23 listopada."
     },
     {
-      "text": "Wniosek o pomoc do nawozów mineralnych (nie wapno) składać do 23.10.2026 przez Portal Rolnika na podstawie faktur z 1.03–31.08; limit do 500 zł/ha i 300 ha."
+      "text": "Ceny azotowych i NPK w październiku utrzymują się na podwyższonym poziomie, z wahaniami regionalnymi u dystrybutorów."
     }
   ],
   "soil": [
     {
-      "text": "Ostatni raport IUNG SMSR (okres do 30.09) nie wykazał bieżącej suszy, ale podsumowanie sezonu potwierdza deficyty wilgoci w glebie wpływające na plony kukurydzy i zbóż na Dolnym Śląsku."
+      "text": "Ostatni raport SMSR IUNG (do 30.09) wskazuje na zakończenie sezonu monitoringu suszy 2026; w dolnośląskim deficyty dotyczyły głównie kukurydzy i częściowo ziemniaka."
     }
   ],
   "protection": [
     {
-      "text": "Flufenacet: sprzedaż części środków do 10.11.2026, stosowanie i utylizacja zapasów do 10.12.2026; sprawdź aktualny rejestr MRiRW przed zabiegiem w oziminach."
+      "text": "Flufenacet: po wycofaniu UE okres sprzedaży części środków wydłużony do 10.11.2026, zużycie zapasów do 10.12.2026 – sprawdź etykiety i rejestr MRiRW przed jesiennymi zabiegami w pszenicy ozimej."
+    },
+    {
+      "text": "Kontroluj magazyn pod kątem środków z wygasającymi terminami stosowania, by uniknąć problemów przy ewentualnych kontrolach PIORiN."
     }
   ],
   "subsidies": [
     {
-      "text": "Zaliczki dopłat 2026 trwają; ARiMR przekazała już 10,78 mld zł (9,43 mld bezpośrednie do >1,1 mln rolników). Sprawdź aktualność numeru konta."
+      "text": "Nabór na dopłaty do nawozów i paliwa zakończony 23.10; zarejestrowano setki tysięcy wniosków, wypłaty spodziewane na przełomie XI/XII."
     },
     {
-      "text": "Pomoc do nawozów i ON do 23.10.2026 tylko elektronicznie; uprawnieni mikro/małe/średnie przedsiębiorstwa ze stratami związanymi z kryzysem."
+      "text": "Trwają wypłaty zaliczek dopłat 2026 (75% bezpośrednich); sprawdź rachunek bankowy w ewidencji, bo wracają przelewy z nieaktualnymi danymi."
     },
     {
-      "text": "Termin zgłaszania szkód suszowych w aplikacji minął 15.10.2026; bez zgłoszenia trudno o ewentualną pomoc."
+      "text": "Ruszył nabór na promocję produktów z systemów jakości (do 7.12), budżet ponad 147 mln zł; inne nabory krajowe i WPR trwają (np. przetwórstwo do 2.11)."
     }
   ],
   "tech": [],
   "economy": [
     {
-      "text": "Ceny skupu: pszenica konsumpcyjna średnio ok. 920–930 zł/t, rzepak ok. 2380–2400 zł/t, kukurydza sucha ok. 920–950 zł/t (notowania połowa października)."
+      "text": "Ceny skupu: pszenica konsumpcyjna waha się ok. 850–970 zł/t, kukurydza sucha 900–980 zł/t, rzepak 2200–2450 zł/t – lokalne oferty różnią się."
     },
     {
-      "text": "DAP i inne fosforany drożeją, co podnosi koszty przedsiewnego nawożenia pod oziminy i kukurydzę 2027."
+      "text": "Nawozy: Polifoska 6 średnio ~3100 zł/t i wyżej, DAP ~4000–4250 zł/t; monitoruj oferty przed zakupami pod oziminy."
     }
   ],
   "doNow": [
     {
-      "text": "Jeśli nie złożono – do 23.10 złóż wniosek o wsparcie do nawozów/paliwa w Portalu Rolnika z fakturami."
+      "text": "Jeśli nie złożono wniosku o dopłaty do nawozów/paliwa – termin minął; śledź decyzje ARiMR."
     },
     {
-      "text": "Sprawdź stan zapasów herbicydów z flufenacetem i zaplanuj ewentualny zabieg w oziminach do 10.12."
+      "text": "Sprawdź zapasy herbicydów z flufenacetem i zaplanuj ewentualne zabiegi jesienne w zbożach ozimych przed 10.12."
     },
     {
-      "text": "Zweryfikuj wpływ suszy na kukurydzę i zboża oraz dokumenty do ewentualnych roszczeń lub ubezpieczeń."
+      "text": "Zweryfikuj status wypłat zaliczek dopłat i aktualność numeru konta w ARiMR."
     }
   ],
   "watch": [
     {
-      "text": "Dalsze komunikaty ARiMR o wypłatach końcowych dopłat i ewentualnej pomocy suszowej po bilansie strat."
+      "text": "Kolejne komunikaty ARiMR o wypłatach wsparcia nawozowego/paliwowego i ewentualnych współczynnikach korygujących."
     },
     {
-      "text": "Ceny nawozów azotowych i fosforowych oraz dostępność przed wiosną."
+      "text": "Aktualizacje rejestru środków ochrony roślin MRiRW pod kątem terminów flufenacetu i innych substancji."
     },
     {
-      "text": "Aktualizacje rejestru środków ochrony roślin i terminy zużycia innych substancji."
+      "text": "Wilgotność gleby i opady pod oziminy na Dolnym Śląsku oraz ceny skupu kukurydzy po żniwach."
     }
   ],
   "sources": [
     {
-      "title": "SMSR IUNG-PIB – zagrożenie suszą 2026 (aktualizacja 5.10)",
+      "title": "SMSR IUNG-PIB – zagrożenie suszą 2026 (aktualizacja 5.10.2026)",
       "url": "https://susza.iung.pulawy.pl/"
     },
     {
-      "title": "Komunikat IUNG SMSR 14. okres / podsumowanie 2026",
-      "url": "https://susza.iung.pulawy.pl/komentarz/2026,14/"
+      "title": "ARiMR – dopłaty do nawozów i paliwa, ostatni dzień naboru 23.10.2026",
+      "url": "https://www.gov.pl/web/arimr/doplaty-do-nawozow-i-paliwa-rolniczego---23-pazdziernika-ostatni-dzien-naboru-biura-powiatowe-czynne-do-obsluzenia-ostatniego-rolnika"
     },
     {
-      "title": "ARiMR: Dopłaty bezpośrednie i obszarowe 2026 – 10,78 mld zł",
-      "url": "https://www.gov.pl/web/arimr/doplaty-bezposrednie-i-obszarowe-2026-1078-mld-zl-na-kontach-rolnikow"
+      "title": "ARiMR – zaliczki dopłat bezpośrednich i obszarowych 2026 (11,4 mld zł)",
+      "url": "https://www.gov.pl/web/arimr/doplaty-bezposrednie-i-obszarowe-2026-114-mld-zl-na-kontach-rolnikow"
     },
     {
-      "title": "ARiMR: Pomoc do nawozów i paliwa – niemal 195 tys. wniosków",
-      "url": "https://www.gov.pl/web/arimr/pomoc-do-nawozow-i-paliwa-rolniczego--zlozono-niemal-195-tys-wnioskow"
-    },
-    {
-      "title": "ARiMR strona główna – aktualności październik 2026",
+      "title": "ARiMR – strona główna aktualności",
       "url": "https://www.gov.pl/web/arimr"
-    },
-    {
-      "title": "Nawozy fosforowe droższe – DAP do 4250 zł/t (17-18.10.2026)",
-      "url": "https://www.farmer.pl/produkcja-roslinna/nawozy/nawozy-fosforowe-coraz-drozsze-dap-nawet-po-4250-zl-t,185458.html"
-    },
-    {
-      "title": "Wycofanie flufenacetu – terminy (WIORiN / komunikaty)",
-      "url": "https://www.gov.pl/web/wiorin-opole/wycofanie-z-obrotu-i-stosowania-flufenacetu"
     }
   ]
 }
