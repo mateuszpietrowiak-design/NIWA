@@ -1,113 +1,110 @@
 {
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-11-01",
   "weekEmpty": false,
-  "note": "Przegląd nie zastępuje lokalnego doradztwa, własnych obserwacji pól ani decyzji opartych na aktualnych badaniach gleby.",
+  "note": "Przegląd nie zastępuje indywidualnej oceny gospodarstwa, badań gleby ani bieżących konsultacji z doradcą ARiMR lub PIORiN.",
   "headlines": [
     {
       "grade": "A",
-      "text": "Termin składania wniosków o nadzwyczajne wsparcie do nawozów mineralnych i oleju napędowego upłynął 23 października 2026 r. via Portal Rolnika.",
+      "text": "Do 3 listopada 2026 r. trwa nabór ARiMR na inwestycje OZE i efektywność energetyczną w gospodarstwach, z dofinansowaniem do 65% kosztów i limitami do 1,7 mln zł.",
       "source": "ARiMR"
     },
     {
       "grade": "A",
-      "text": "IUNG-PIB podsumował suszę 2026: w dolnośląskim zagrożenie dotyczyło m.in. kukurydzy na ziarno (ok. 51% gmin) i kiszonkę (ok. 53% gmin) oraz ziemniaka.",
-      "source": "IUNG-PIB"
-    },
-    {
-      "grade": "B",
-      "text": "ARiMR wypłaciła już ponad 11,4 mld zł zaliczek dopłat bezpośrednich i obszarowych za 2026 r., z podwyższonym poziomem zaliczek.",
+      "text": "Do 9 listopada 2026 r. należy przekazać do ARiMR dokumenty potwierdzające praktyki ekoschematu związane z nawożeniem naturalnym, by nie stracić płatności.",
       "source": "ARiMR"
     },
     {
       "grade": "B",
-      "text": "Środki z flufenacetem: sprzedaż części preparatów przedłużona do 10 listopada 2026 r., stosowanie zapasów do 10 grudnia 2026 r. – istotne dla jesiennej ochrony zbóż ozimych.",
-      "source": "MRiRW/media branżowe"
+      "text": "Fosforan amonu DAP podrożał o ok. 180 zł/t pod koniec października, osiągając średnio ponad 4200-4400 zł/t, przy ograniczonej dostępności.",
+      "source": "Farmer.pl"
+    },
+    {
+      "grade": "B",
+      "text": "Od 27 października 2026 r. przedłużono do 2031 r. obniżone opłaty PIORiN za badania bulw ziemniaka innych niż sadzeniaki.",
+      "source": "MRiRW/PIORiN"
     },
     {
       "grade": "C",
-      "text": "Ceny nawozów NPK i fosforowych pozostają wysokie, Polifoska 6 średnio ponad 3100 zł/t, DAP nawet powyżej 4000 zł/t.",
-      "source": "Raporty rynkowe"
+      "text": "Ceny skupu zbóż i rzepaku na koniec października stabilne: pszenica konsumpcyjna średnio ok. 936 zł/t, rzepak ok. 2380 zł/t, kukurydza ok. 937 zł/t.",
+      "source": "CenyRolnicze.pl"
     }
   ],
   "fertilization": [
     {
-      "text": "Wsparcie do nawozów kupionych 1.03–31.08.2026 dotyczyło nawozów mineralnych (bez wapna), max 500 zł/ha do 300 ha; decyzje do 23 listopada."
-    },
-    {
-      "text": "Ceny azotowych i NPK w październiku utrzymują się na podwyższonym poziomie, z wahaniami regionalnymi u dystrybutorów."
+      "text": "Wzrost cen DAP o 180 zł/t w drugiej połowie października może wpłynąć na plany nawożenia fosforowego przed siewami ozimin lub wiosną.",
+      "source": "Farmer.pl"
     }
   ],
-  "soil": [
-    {
-      "text": "Ostatni raport SMSR IUNG (do 30.09) wskazuje na zakończenie sezonu monitoringu suszy 2026; w dolnośląskim deficyty dotyczyły głównie kukurydzy i częściowo ziemniaka."
-    }
-  ],
+  "soil": [],
   "protection": [
     {
-      "text": "Flufenacet: po wycofaniu UE okres sprzedaży części środków wydłużony do 10.11.2026, zużycie zapasów do 10.12.2026 – sprawdź etykiety i rejestr MRiRW przed jesiennymi zabiegami w pszenicy ozimej."
-    },
-    {
-      "text": "Kontroluj magazyn pod kątem środków z wygasającymi terminami stosowania, by uniknąć problemów przy ewentualnych kontrolach PIORiN."
+      "text": "Przedłużenie preferencyjnych stawek PIORiN za badania ziemniaków do 2031 r. obniża koszty diagnostyki bakteriozy pierścieniowej i śluzaka.",
+      "source": "MRiRW"
     }
   ],
   "subsidies": [
     {
-      "text": "Nabór na dopłaty do nawozów i paliwa zakończony 23.10; zarejestrowano setki tysięcy wniosków, wypłaty spodziewane na przełomie XI/XII."
+      "text": "Nabór na OZE i efektywność energetyczną (biogazownie, fotowoltaika, pompy ciepła) trwa do 3 listopada 2026 r. wyłącznie przez Portal Rolnika.",
+      "source": "ARiMR"
     },
     {
-      "text": "Trwają wypłaty zaliczek dopłat 2026 (75% bezpośrednich); sprawdź rachunek bankowy w ewidencji, bo wracają przelewy z nieaktualnymi danymi."
-    },
-    {
-      "text": "Ruszył nabór na promocję produktów z systemów jakości (do 7.12), budżet ponad 147 mln zł; inne nabory krajowe i WPR trwają (np. przetwórstwo do 2.11)."
+      "text": "Dokumentację ekoschematów nawożenia naturalnego (wymieszanie obornika, aplikacja doglebowa) złożyć do 9 listopada 2026 r., max 14 dni od zabiegu.",
+      "source": "ARiMR"
     }
   ],
   "tech": [],
   "economy": [
     {
-      "text": "Ceny skupu: pszenica konsumpcyjna waha się ok. 850–970 zł/t, kukurydza sucha 900–980 zł/t, rzepak 2200–2450 zł/t – lokalne oferty różnią się."
+      "text": "Pod koniec października ceny skupu pszenicy konsumpcyjnej wahały się 880-1040 zł/t (średnio 936), rzepaku 2200-2470 zł/t, kukurydzy suchej 890-1020 zł/t.",
+      "source": "CenyRolnicze.pl"
     },
     {
-      "text": "Nawozy: Polifoska 6 średnio ~3100 zł/t i wyżej, DAP ~4000–4250 zł/t; monitoruj oferty przed zakupami pod oziminy."
+      "text": "Ceny nawozów fosforowych rosną, sól potasowa stabilna ok. 1860 zł/t od czerwca.",
+      "source": "Farmer.pl"
     }
   ],
   "doNow": [
     {
-      "text": "Jeśli nie złożono wniosku o dopłaty do nawozów/paliwa – termin minął; śledź decyzje ARiMR."
+      "text": "Sprawdź i złóż dokumenty ekoschematów nawożenia do ARiMR przed 9 listopada 2026 r."
     },
     {
-      "text": "Sprawdź zapasy herbicydów z flufenacetem i zaplanuj ewentualne zabiegi jesienne w zbożach ozimych przed 10.12."
+      "text": "Rozważ złożenie wniosku o wsparcie OZE do 3 listopada 2026 r., jeśli planujesz fotowoltaikę lub biogazownię."
     },
     {
-      "text": "Zweryfikuj status wypłat zaliczek dopłat i aktualność numeru konta w ARiMR."
+      "text": "Monitoruj lokalne ceny nawozów DAP przed zakupami na sezon."
     }
   ],
   "watch": [
     {
-      "text": "Kolejne komunikaty ARiMR o wypłatach wsparcia nawozowego/paliwowego i ewentualnych współczynnikach korygujących."
+      "text": "Dalsze zmiany cen nawozów azotowych i fosforowych oraz dostępność Polidapu."
     },
     {
-      "text": "Aktualizacje rejestru środków ochrony roślin MRiRW pod kątem terminów flufenacetu i innych substancji."
+      "text": "Ewentualne komunikaty ARiMR o przedłużeniach naborów lub warunkach pogodowych dla ekoschematów."
     },
     {
-      "text": "Wilgotność gleby i opady pod oziminy na Dolnym Śląsku oraz ceny skupu kukurydzy po żniwach."
+      "text": "Stan wilgotności gleby i opady na Dolnym Śląsku po październikowych deszczach w kontekście ozimin."
     }
   ],
   "sources": [
     {
-      "title": "SMSR IUNG-PIB – zagrożenie suszą 2026 (aktualizacja 5.10.2026)",
-      "url": "https://susza.iung.pulawy.pl/"
+      "title": "Trwa nabór na inwestycje energetyczne w gospodarstwach",
+      "url": "https://www.gov.pl/web/arimr/trwa-nabor-na-inwestycje-energetyczne-w-gospodarstwach-nawet-17-mln-zl-wsparcia-dla-rolnikow"
     },
     {
-      "title": "ARiMR – dopłaty do nawozów i paliwa, ostatni dzień naboru 23.10.2026",
-      "url": "https://www.gov.pl/web/arimr/doplaty-do-nawozow-i-paliwa-rolniczego---23-pazdziernika-ostatni-dzien-naboru-biura-powiatowe-czynne-do-obsluzenia-ostatniego-rolnika"
+      "title": "Fosforan amonu podrożał o 180 zł/t. Ceny nawozów na koniec października",
+      "url": "https://www.farmer.pl/produkcja-roslinna/nawozy/fosforan-amonu-podrozal-o-180-zl-t-sprawdzamy-ceny-nawozow-na-koniec-pazdziernika,186307.html"
     },
     {
-      "title": "ARiMR – zaliczki dopłat bezpośrednich i obszarowych 2026 (11,4 mld zł)",
-      "url": "https://www.gov.pl/web/arimr/doplaty-bezposrednie-i-obszarowe-2026-114-mld-zl-na-kontach-rolnikow"
+      "title": "Ceny skupu zbóż, kukurydzy, oleistych 30.10.2026",
+      "url": "https://www.cenyrolnicze.pl/wiadomosci/rynki-rolne/zboza/44373-30-10-2026-ceny-skupu-zboz-kukurydzy-oleistych-i-straczkowych-spokojne-zakonczenie-miesiaca"
     },
     {
-      "title": "ARiMR – strona główna aktualności",
-      "url": "https://www.gov.pl/web/arimr"
+      "title": "ARiMR przypomina o terminie dokumentacji ekoschematów do 9 listopada",
+      "url": "https://wiescirolnicze.pl/prawo-i-finanse/arimr-przypomina-o-waznym-terminie-rolnicy-musza-zdazyc-do-9-listopada,35027/"
+    },
+    {
+      "title": "System Monitoringu Suszy Rolniczej IUNG-PIB 2026",
+      "url": "https://susza.iung.pulawy.pl/en"
     }
   ]
 }
